@@ -11,5 +11,6 @@ public class TestHBM {
 	    session.beginTransaction();
 	    session.close();
 	    System.out.println("OK");
+	    //testtt
 	}
 }
